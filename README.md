@@ -4,7 +4,7 @@ This project helps to recognize hand written digits.
 # Objective
 Given a training data with images and corresponding digits to learn to classify new data among the characters.
 
-#main purpose
+# main purpose
 In this project three different algorithm(Decision tree, KNN, Random forest ) was implemented. Different algorithm has different efficiency. It also calculate effieciency of
 these algorithm and helps to determine which is better.
 
